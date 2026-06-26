@@ -3,9 +3,12 @@ main:
   - title: Position: Balance Human Agency & AI Assistance in the Tussle for the Right to *
     authors: <strong>Zi-Yu Khoo*</strong>, Yuriel Ryan, Nicole Heng Yim Oo, Hui En Pang, Eric J. W. Orlowski, Hakim Norhashim, Ruth Wan Theng Chew, Davin Choo, Rachael Hwee Ling Sim, Simon Chesterman, Jungpil Hahn, Bryan Kian Hsiang Low
     conference_short: SSRN
+    conference: 
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6185399
+    code: 
+    bibtex: 
     image: ./assets/img/publications/the_rights.png
-
+    notes:
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
