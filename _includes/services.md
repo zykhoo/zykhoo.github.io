@@ -1,16 +1,19 @@
-## Services
+## Events
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Under Assoc. Prof. Bryan Low, I've organized a few events for the AI community:</h4>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
+<div style="display:flex; flex-wrap:wrap; gap:16px; margin:12px 0 24px;">
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+  <figure style="flex:1 1 200px; max-width:260px; margin:0;">
+    <a href="https://luma.com/xyon5cw4">
+      <img src="./assets/img/events/20260123_102342.jpg" alt="CVPR" style="width:100%; height:160px; object-fit:cover; border-radius:8px;">
+    </a>
+    <figcaption style="margin-top:6px; font-size:0.9em;">
+      <a href="http://cvpr2023.thecvf.com/"><autocolor>CVPR 2021–2023</autocolor></a>
+    </figcaption>
+  </figure>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+
+
+</div>
+
