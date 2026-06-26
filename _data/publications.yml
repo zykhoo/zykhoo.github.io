@@ -17,7 +17,7 @@ main:
     pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.044205
     code: https://github.com/zykhoo/SeparableNNs
     bibtex: 
-    image: ./assets/img/publications/pinn_fourfig.drawio.png
+    image: ./assets/img/publications/pinn_fourfig.png
     notes:
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
