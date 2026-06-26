@@ -9,7 +9,7 @@
       <img src="/assets/img/20260123_102342.jpg" alt="AI Singapore" style="flex:1; min-width:0; height:160px; object-fit:cover; border-radius:8px;">
     </a>
     <figcaption style="margin-top:6px; font-size:0.9em;">
-      <a href="https://luma.com/xyon5cw4"><autocolor>\n AI Singapore Symposium on The Right to Work, Learn, Own & Choose</autocolor></a>
+      <a href="https://luma.com/xyon5cw4"><autocolor><br> AI Singapore Symposium on The Right to Work, Learn, Own & Choose</autocolor></a>
     </figcaption>
   </figure>
 </div>
