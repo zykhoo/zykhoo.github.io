@@ -4,19 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Research Fellow at AI Singapore, under the National University of Singapore. I am also working in the Group of Learning and Optimization Working in AI, under Associate Professor Bryan Low Kian Hsiang. 
 
-## Research Interests
+Previously, I completed my PhD degree from the School of Computing, at the National University of Singapore. I was supervised by Associate Professor Stéphane Bressan. My dissertation topic was on Physics Informed Machine Learning and Dynamical Systems. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
