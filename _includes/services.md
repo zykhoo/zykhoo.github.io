@@ -9,7 +9,7 @@
       <img src="/assets/img/events/20260123_102342.jpg" alt="AI Singapore" style="flex:1; min-width:0; height:160px; object-fit:cover; border-radius:8px;">
     </a>
     <figcaption style="margin-top:6px; font-size:0.9em;">
-      <a href=["https://luma.com/xyon5cw4]"><br>
+      <a href="https://luma.com/xyon5cw4"><br>
       AI Singapore Symposium on The Right to Work, Learn, Own & Choose.
     </a>
     <br>
@@ -17,7 +17,7 @@
     </figcaption>
   </figure>
 </div>
-
+<br><br>
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin:12px 0 24px;">
   <figure style="margin:0 0 24px;">
     <a href="[https://luma.com/xyon5cw4](https://luma.com/rzkweojj)" style="display:flex; gap:8px; max-width:540px;">
@@ -25,7 +25,7 @@
       <img src="/assets/img/events/janestreet.png" alt="Jane Street" style="flex:1; min-width:0; height:160px; object-fit:cover; border-radius:8px;">
     </a>
     <figcaption style="margin-top:6px; font-size:0.9em;">
-      <a href=["https://luma.com/rzkweojj]"><br>
+      <a href="https://luma.com/rzkweojj"><br>
       NUS x Jane Street Summit on Self-Evolution of AI Agents and Multiagent Systems @ ICML 2026.
     </a>
     <br>
