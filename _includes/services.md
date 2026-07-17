@@ -9,7 +9,7 @@
       <img src="/assets/img/events/20260123_102342.jpg" alt="AI Singapore" style="flex:1; min-width:0; height:160px; object-fit:cover; border-radius:8px;">
     </a>
     <figcaption style="margin-top:6px; font-size:0.9em;">
-      <a href="https://luma.com/xyon5cw4"><autocolor><br> AI Singapore Symposium on The Right to Work, Learn, Own & Choose. <br>This symposium brought together participants from academia, industry, and government, to discuss the effects of AI on our capabilities as humans to work, learn, own, and choose. We had four talks from distinguished speakers ​Prof. Jungpil Hahn, ​Prof. Ashok K. Goel, Prof. Luke Zettlemoyer, Dr Nancy F. Chen, and Dr. Djallel Bouneffouf, and a panel session moderated by Prof. Simon Chesterman. These acted as a platform to identify new risks and opportunities as AI increasingly mediates processes in our daily lives. </autocolor></a>
+      <a href="[https://luma.com/xyon5cw4](https://luma.com/xyon5cw4)"><autocolor><br> AI Singapore Symposium on The Right to Work, Learn, Own & Choose. <br>This symposium brought together participants from academia, industry, and government, to discuss the effects of AI on our capabilities as humans to work, learn, own, and choose. We had four talks from distinguished speakers ​Prof. Jungpil Hahn, ​Prof. Ashok K. Goel, Prof. Luke Zettlemoyer, Dr Nancy F. Chen, and Dr. Djallel Bouneffouf, and a panel session moderated by Prof. Simon Chesterman. These acted as a platform to identify new risks and opportunities as AI increasingly mediates processes in our daily lives. </autocolor></a>
     </figcaption>
   </figure>
 </div>
