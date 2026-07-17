@@ -13,7 +13,7 @@
       AI Singapore Symposium on The Right to Work, Learn, Own & Choose.
     </a>
     <br>
-    This symposium brought together participants from academia, industry, and government, to discuss the effects of AI on our capabilities as humans to work, learn, own, and choose. We had four talks from distinguished speakers ​Prof. Jungpil Hahn, ​Prof. Ashok K. Goel, Prof. Luke Zettlemoyer, Dr Nancy F. Chen, and Dr. Djallel Bouneffouf, and a panel session moderated by Prof. Simon Chesterman. These acted as a platform to identify new risks and opportunities as AI increasingly mediates processes in our daily lives. </autocolor></a>
+    This symposium brought together participants from academia, industry, and government, to discuss the effects of AI on our capabilities as humans to work, learn, own, and choose. We had four talks from distinguished speakers ​Prof. Jungpil Hahn, ​Prof. Ashok K. Goel, Prof. Luke Zettlemoyer, Dr Nancy F. Chen, and Dr. Djallel Bouneffouf, and a panel session moderated by Prof. Simon Chesterman. These acted as a platform to identify new risks and opportunities as AI increasingly mediates processes in our daily lives. 
     </figcaption>
   </figure>
 </div>
@@ -29,7 +29,7 @@
       NUS x Jane Street Summit on Self-Evolution of AI Agents and Multiagent Systems @ ICML 2026.
     </a>
     <br>
-    This working summit was held during the International Conference on Machine Learning in 2026. It brought together 40 top researchers from Agentic AI (filtered from over 600 registrants) to discuss the self-evolution of Agentic AI systems along three dimensions- memory, collaboration and coordination, and search and optimization, around the working hypothesis that the evolution of agentic AI systems should be informed by foundational works from areas such as cooperative game theory, reinforcement learning and multi-armed bandits, concept learning, and Bayesian optimization. </autocolor></a>
+    This working summit was held during the International Conference on Machine Learning in 2026. It brought together 40 top researchers from Agentic AI (filtered from over 600 registrants) to discuss the self-evolution of Agentic AI systems along three dimensions- memory, collaboration and coordination, and search and optimization, around the working hypothesis that the evolution of agentic AI systems should be informed by foundational works from areas such as cooperative game theory, reinforcement learning and multi-armed bandits, concept learning, and Bayesian optimization. 
     </figcaption>
   </figure>
 </div>
