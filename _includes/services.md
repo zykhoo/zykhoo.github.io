@@ -13,7 +13,7 @@
       AI Singapore Symposium on The Right to Work, Learn, Own & Choose.
     </a>
     <br>
-    This symposium brought together participants from academia, industry, and government, to discuss the effects of AI on our capabilities as humans to work, learn, own, and choose. We had four talks from distinguished speakers ​Prof. Jungpil Hahn, ​Prof. Ashok K. Goel, Prof. Luke Zettlemoyer, Dr Nancy F. Chen, and Dr. Djallel Bouneffouf, and a panel session moderated by Prof. Simon Chesterman. These acted as a platform to identify new risks and opportunities as AI increasingly mediates processes in our daily lives. 
+    This symposium brought together participants from academia, industry, and government, to discuss the effects of AI on our capabilities as humans to work, learn, own, and choose. We had five talks from distinguished speakers ​Prof. Jungpil Hahn, ​Prof. Ashok K. Goel, Prof. Luke Zettlemoyer, Dr Nancy F. Chen, and Dr. Djallel Bouneffouf, and a panel session moderated by Prof. Simon Chesterman. These acted as a platform to identify new risks and opportunities as AI increasingly mediates processes in our daily lives. 
     </figcaption>
   </figure>
 </div>
