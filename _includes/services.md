@@ -20,7 +20,7 @@
 <br><br>
 <div style="display:flex; flex-wrap:wrap; gap:16px; margin:12px 0 24px;">
   <figure style="margin:0 0 24px;">
-    <a href="https://luma.com/xyon5cw4" style="display:flex; gap:8px; max-width:540px;">
+    <a href="https://luma.com/rzkweojj" style="display:flex; gap:8px; max-width:540px;">
       <img src="/assets/img/events/main_janestreet.jpg" alt="Jane Street" style="flex:1; min-width:0; height:160px; object-fit:cover; border-radius:8px;">
       <img src="/assets/img/events/janestreet.png" alt="Jane Street" style="flex:1; min-width:0; height:160px; object-fit:cover; border-radius:8px;">
     </a>
